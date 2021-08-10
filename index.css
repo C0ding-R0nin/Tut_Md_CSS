@@ -45,6 +45,17 @@ body
     float: left;
 
 }
+#IN_box3
+{
+    box-sizing: content-box;
+    height: 90px;
+    width : 50%;
+    background-color: blueviolet;
+    border: solid black 1px;
+    display: inline-block;
+    margin-top: 2.5px;
+
+}
 #box4
 {
     box-sizing: border-box;
